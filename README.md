@@ -1,6 +1,6 @@
-Ashmit Shaw (RA2311056030019)
+🚦 Mindful Watching Without Killing Engagement
 
-Mindful Watching Without Killing Engagement
+Ashmit Shaw (RA2311056030019)
 
 A subtle UI nudge to help users self-regulate YouTube Shorts binge-watching—pure interface magic, no backend.
 
